@@ -35,7 +35,7 @@ This tool is meant for:
 
 
 
-## ** Recommended Project Structure**
+##  **Recommended Project Structure**
 
 - `input/` – Put your `.po` files here for translation.
 - `output/` – Translated files will be saved here.
