@@ -1,6 +1,6 @@
 #  PoMoMultiTool
 
-A universal CLI tool designed for working with **Lesta (ex-Wargaming)** `.po` and `.mo` language files used in games like Mir Tankov, Mir Korabley and similar.
+A universal tool designed for working with **Lesta (ex-Wargaming)** `.po` and `.mo` language files used in games like Mir Tankov, Mir Korabley and similar.
 
 ---
 
