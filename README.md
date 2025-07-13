@@ -48,6 +48,11 @@ This tool is meant for:
 ## **How To Use**
 
 1. Put your `.po` files in the relevant folders (`input/`, `ru/`, etc.).
-2. Run the tool:
+2. To run the source code run:
    ```bash
    python PoMoMultiTool.py
+
+   ```
+OR
+
+Run the .exe from the releases.
