@@ -19,7 +19,7 @@ A universal tool designed for working with **Lesta (ex-Wargaming)** `.po` and `.
 
  **3. `.po` File Merger (with Plural Support)**  
 - Merges overlay translations onto a base Russian `.po` file.
-- Supports plural forms (`msgstr[0]`, `msgstr[1]`, etc.) to ensure no data loss.
+- Supports plural forms (`msgstr[0]`, `msgstr[1]`, etc.)
 - Prevents accidental merging of Russian onto Russian files.
 - Ideal for maintaining multiple language overlays for the same mod or game update.
 
@@ -29,7 +29,6 @@ A universal tool designed for working with **Lesta (ex-Wargaming)** `.po` and `.
 
 This tool is meant for:
 - **Modders**, localizers, and fans working with **Lesta/Wargaming `.po` and `.mo` files**.
-- Anyone needing to translate or merge large language file sets.
 
 ---
 
